@@ -1,7 +1,7 @@
 # 🤣 Random Joke API Generator
 
 A simple Node.js API that serves up random jokes from a curated collection. Perfect for testing, fun projects, or just a quick laugh!
-# Get ready to Laugh : [Clike me](https://node-day5-random-jokes-api.onrender.com/api/jokes/random)
+# Get ready to Laugh : [Click me](https://node-day5-random-jokes-api.onrender.com/api/jokes/random)
 ---
 
 ## 🚀 Features
